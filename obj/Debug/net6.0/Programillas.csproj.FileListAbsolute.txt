@@ -1,0 +1,15 @@
+D:\Documents\UT\Programacion\Programillas\bin\Debug\net6.0\Programillas.exe
+D:\Documents\UT\Programacion\Programillas\bin\Debug\net6.0\Programillas.deps.json
+D:\Documents\UT\Programacion\Programillas\bin\Debug\net6.0\Programillas.runtimeconfig.json
+D:\Documents\UT\Programacion\Programillas\bin\Debug\net6.0\Programillas.dll
+D:\Documents\UT\Programacion\Programillas\bin\Debug\net6.0\ref\Programillas.dll
+D:\Documents\UT\Programacion\Programillas\bin\Debug\net6.0\Programillas.pdb
+D:\Documents\UT\Programacion\Programillas\obj\Debug\net6.0\Programillas.csproj.AssemblyReference.cache
+D:\Documents\UT\Programacion\Programillas\obj\Debug\net6.0\Programillas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\UT\Programacion\Programillas\obj\Debug\net6.0\Programillas.AssemblyInfoInputs.cache
+D:\Documents\UT\Programacion\Programillas\obj\Debug\net6.0\Programillas.AssemblyInfo.cs
+D:\Documents\UT\Programacion\Programillas\obj\Debug\net6.0\Programillas.csproj.CoreCompileInputs.cache
+D:\Documents\UT\Programacion\Programillas\obj\Debug\net6.0\Programillas.dll
+D:\Documents\UT\Programacion\Programillas\obj\Debug\net6.0\ref\Programillas.dll
+D:\Documents\UT\Programacion\Programillas\obj\Debug\net6.0\Programillas.pdb
+D:\Documents\UT\Programacion\Programillas\obj\Debug\net6.0\Programillas.genruntimeconfig.cache

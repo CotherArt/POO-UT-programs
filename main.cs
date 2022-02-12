@@ -23,9 +23,9 @@ public class main
         // new pr24();
         // new pr25();
         // new pr26();
-        new pr27();
+        // new pr27();
         // new pr28();
         // new pr29();
-        // new pr30();
+        new pr30();
     }
 }

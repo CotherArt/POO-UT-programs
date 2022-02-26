@@ -1,8 +1,8 @@
-﻿//Programa 2: Programa que pida el nombre y la edad de una persona 
+﻿//Programa 2: Programa que pida el nombre y la edad de una persona
 // e imprima el siguiente mensaje: "Buenos dias , tu nombre es <nombre> y tienes <edad> años
 using System;
-public class pr02{
-    public pr02(){
+public class pr02 {
+    public pr02() {
         int edad;
         String nombre;
         Console.WriteLine("Dame tu nombre");

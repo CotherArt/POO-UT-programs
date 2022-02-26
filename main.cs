@@ -26,6 +26,6 @@ public class main
         // new pr27();
         // new pr28();
         // new pr29();
-        new pr30();
+        new pr35();
     }
 }

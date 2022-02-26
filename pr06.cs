@@ -1,4 +1,4 @@
-﻿// Programa 6. PROGRAMA QUE SUME LOS NÚMEROS DEL 1 AL 10 E IMPRIMA EL RESULTADO.
+// Programa 6. PROGRAMA QUE SUME LOS NÚMEROS DEL 1 AL 10 E IMPRIMA EL RESULTADO.
 using System;
 public class pr06{
     public pr06(){

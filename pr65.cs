@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 // Programa 65: Programa muestre un menu de restaurante para ordenar. y calcule
 // el precio total con iva añadido del 15% (usando ciclos)
+=======
+// Programa 65: Programa que simule el juego del snake
+>>>>>>> 5b38d80dc8cabe17f1371b9f8a77400df6a6ef86
 using System;
 
 public class pr65 {
     public pr65() {
+<<<<<<< HEAD
         bool exit = false;
         int opcion;
         double total=0, iva;
@@ -48,5 +53,7 @@ public class pr65 {
         total -= iva;
         Console.WriteLine($"IVA del 15% añadido: ${iva}");
         Console.WriteLine($"Total a pagar: ${total}");
+=======
+>>>>>>> 5b38d80dc8cabe17f1371b9f8a77400df6a6ef86
     }
 }

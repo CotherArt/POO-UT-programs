@@ -1,7 +1,7 @@
 //Programa 74. Programa que calcula el area y el perimetro de un circulo. usando objeros
 using System;
 
-class Circulo{
+public class Circulo{
 	public double radio;
 	public double area;
 	public double perimetro;
@@ -18,7 +18,7 @@ class Circulo{
 // class Program{
 // 	public static void Main(){
 // 		Circulo cir1 = new Circulo();
-// 
+
 // 		cir1.radio = 4;
 // 		cir1.CalculaArea();
 // 		cir1.CalculaPerimetro();

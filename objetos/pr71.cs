@@ -2,7 +2,7 @@
 
 using System;
 
-class Cubo
+public class Cubo
 {
     // datos
     public double lado;
@@ -19,15 +19,15 @@ class Cubo
         volumen = lado * lado * lado;
     }
 }
-//public class Program
-//{
-    //public static void Main()
-    //{
-        //cubo miCubo1 = new Cubo();
-        //miCubo1.lado = 5;
-        //miCubo1.CalculaArea();
-        //Console.WriteLine("El area es " + miCubo1.area);
-        //miCubo1.CalculaVolumen();
-        //Console.WriteLine("El volumen es " + miCubo1.volumen);
-    //}
-//}
+// public class Program
+// {
+//     public static void Main()
+//     {
+//         Cubo miCubo1 = new Cubo();
+//         miCubo1.lado = 5;
+//         miCubo1.CalculaArea();
+//         Console.WriteLine("El area es " + miCubo1.area);
+//         miCubo1.CalculaVolumen();
+//         Console.WriteLine("El volumen es " + miCubo1.volumen);
+//     }
+// }

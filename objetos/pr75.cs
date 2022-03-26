@@ -153,3 +153,4 @@ class Cuadrado : Rectangulo
         perimetro = lado1 * 4;
     }
 }
+

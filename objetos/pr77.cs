@@ -21,4 +21,17 @@ public class Promedio{
     public void calcularPromedio(){
         promedio = sumaCalif / nMaterias;
     }
+
+    public void Imprimir(){
+        Console.WriteLine("El promedio es: " + promedio);
+    }
 }
+
+//class Program{
+    //public static void Main(){
+        //Promedio obj = new Promedio();
+        //obj.ingresaDatos();
+        //obj.calcularPromedio();
+        //obj.Imprimir();
+    //}
+//}

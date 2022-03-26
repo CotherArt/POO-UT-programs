@@ -28,12 +28,12 @@ class GeneralForm{
     }
 }
 
-class Program{
-    public static void Main(string[] args)
-    {
-        GeneralForm obj = new GeneralForm();
-        obj.IngresarDatos();
-        obj.Calcular();
-        obj.Imprimir();
-    }
-}
+//class Program{
+    //public static void Main(string[] args)
+    //{
+        //GeneralForm obj = new GeneralForm();
+        //obj.IngresarDatos();
+        //obj.Calcular();
+        //obj.Imprimir();
+    //}
+//}
